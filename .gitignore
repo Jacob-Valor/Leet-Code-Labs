@@ -1,0 +1,7 @@
+# Zig build outputs
+.zig-cache/
+zig-cache/
+zig-out/
+
+# Local compiled artifacts
+two_sum/two_sum
